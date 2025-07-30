@@ -4,8 +4,7 @@ import { useContext } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { RootState, AppDispatch } from "../../redux/store/page";
 import { callLoginUser } from "@/app/redux/features/page";
-import { useRouter } from "next/router";
-
+import { useRouter } from "next/navigation";
 
 export default function Navbar() {
   const counterData = useContext(Counter);
@@ -28,7 +27,6 @@ export default function Navbar() {
           localStorage.setItem('currentUserToChat', '0');
           userStatusRedux(callLoginUser(checkresponse));
           localStorage.setItem('user', '');
-          
           router.push('/');
         }
       } catch (error) {
@@ -43,9 +41,9 @@ export default function Navbar() {
       <div className="flex items-center gap-6">
         <span className="text-xl font-bold text-blue-700 tracking-wide">MyChatApp</span>
         {!inlineStatus.onlineStatus && (
-        <Link href="/" className="hover:text-blue-600 transition-colors font-medium">
-          Home
-        </Link>
+          <Link href="/" className="hover:text-blue-600 transition-colors font-medium">
+            Home
+          </Link>
         )}
         <Link href="/about" className="hover:text-blue-600 transition-colors font-medium">
           About
