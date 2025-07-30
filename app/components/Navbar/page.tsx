@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { Counter } from "@/app/Counter";
 import { useContext } from "react";
