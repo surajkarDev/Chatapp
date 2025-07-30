@@ -1,0 +1,384 @@
+{
+  "users": [
+    {
+      "id": "1749722160397",
+      "username": "suraj",
+      "password": "1234567890",
+      "email": "suraj@farenexus.com",
+      "onlineStatus": true
+    },
+    {
+      "id": "1749722274767",
+      "username": "rohit",
+      "password": "1234567878090",
+      "email": "rohit@gmail.com",
+      "onlineStatus": false
+    },
+    {
+      "id": "1749722451341",
+      "username": "vikesh",
+      "password": "1234567878090",
+      "email": "vikesh@gmail.com",
+      "onlineStatus": true
+    },
+    {
+      "id": "1750142275827",
+      "username": "sanjib",
+      "password": "1234567890",
+      "email": "sanjib@gmail.com",
+      "onlineStatus": false
+    }
+  ],
+  "chats": [
+    {
+      "id": "df73",
+      "type": "text",
+      "content": "hello how are you",
+      "timestamp": "23:02:41",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "1d62",
+      "type": "text",
+      "content": "demo test",
+      "timestamp": "11:41:35",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "b9a2",
+      "type": "text",
+      "content": "how are you",
+      "timestamp": "11:46:55",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "dcb3",
+      "type": "text",
+      "content": "tested",
+      "timestamp": "12:07:08",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "1051",
+      "type": "text",
+      "content": "aaaa",
+      "timestamp": "12:07:27",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "0fc9",
+      "type": "text",
+      "content": "dsfdf",
+      "timestamp": "12:07:32",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "1849",
+      "type": "text",
+      "content": "aaaaa",
+      "timestamp": "12:08:25",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "6441",
+      "type": "text",
+      "content": "dfgdfg",
+      "timestamp": "12:14:34",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "f3b0",
+      "type": "text",
+      "content": "sdfsdfsd",
+      "timestamp": "12:15:59",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "cde2",
+      "type": "text",
+      "content": "xvdfd",
+      "timestamp": "12:16:12",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "22c4",
+      "type": "text",
+      "content": "fgsdfg",
+      "timestamp": "12:16:19",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "64a3",
+      "type": "text",
+      "content": "ak",
+      "timestamp": "12:16:34",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "fc98",
+      "type": "text",
+      "content": "fdgdsfg",
+      "timestamp": "12:16:48",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "c5ff",
+      "type": "text",
+      "content": "aaa",
+      "timestamp": "12:17:20",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "260c",
+      "type": "text",
+      "content": "dfgsdfgdsfgd",
+      "timestamp": "12:18:05",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "b155",
+      "type": "text",
+      "content": "dgfsdf",
+      "timestamp": "12:18:25",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "c3a0",
+      "type": "text",
+      "content": "dsfgsdgsdf",
+      "timestamp": "12:24:20",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "2d72",
+      "type": "text",
+      "content": "dsgsdfg",
+      "timestamp": "12:24:25",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "120d",
+      "type": "text",
+      "content": "dfgsdf",
+      "timestamp": "12:24:32",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "7e44",
+      "type": "text",
+      "content": "tell me about your self",
+      "timestamp": "15:47:32",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "773f",
+      "type": "text",
+      "content": "??",
+      "timestamp": "15:51:28",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "39c3",
+      "type": "text",
+      "content": "??",
+      "timestamp": "15:51:57",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyTo": [
+        {
+          "timestamp": "22:39:58",
+          "content": "what are you try to say",
+          "fromUserId": "1749722160397"
+        },
+        {
+          "timestamp": "22:49:29",
+          "content": "please explain",
+          "fromUserId": "1749722160397"
+        },
+        {
+          "timestamp": "22:50:33",
+          "content": "dsfsdf",
+          "fromUserId": "1749722160397"
+        },
+        {
+          "timestamp": "22:52:24",
+          "content": "fgdf",
+          "fromUserId": "1749722160397"
+        },
+        {
+          "timestamp": "22:53:06",
+          "content": "fdgdf",
+          "fromUserId": "1749722160397"
+        }
+      ],
+      "fromUserId": "1749722274767",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "86c9",
+      "type": "text",
+      "content": "what is this",
+      "timestamp": "23:26:52",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyMessage": "",
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    },
+    {
+      "id": "358b",
+      "type": "text",
+      "content": "hi",
+      "timestamp": "23:28:12",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyMessage": "",
+      "fromUserId": "1749722451341",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "fbc5",
+      "type": "text",
+      "content": "hi how are you",
+      "timestamp": "23:28:29",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyMessage": "",
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722451341"
+    },
+    {
+      "id": "97ba",
+      "type": "text",
+      "content": "i am fine",
+      "timestamp": "23:28:45",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyMessage": "",
+      "fromUserId": "1749722451341",
+      "toUserId": "1749722160397"
+    },
+    {
+      "id": "6fe3",
+      "type": "text",
+      "content": "tell me some thing",
+      "timestamp": "22:56:40",
+      "showEdit": false,
+      "showReply": false,
+      "editContent": "",
+      "replyMessage": "",
+      "fromUserId": "1749722160397",
+      "toUserId": "1749722274767"
+    }
+  ]
+}
