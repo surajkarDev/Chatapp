@@ -4,9 +4,8 @@ import { useContext } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { RootState, AppDispatch } from "../../redux/store/page";
 import { callLoginUser } from "@/app/redux/features/page";
-import { useRouter } from "next/navigation";
+import { useRouter } from "next/router";
 
-const SESSION_TIMEOUT = 1 * 60 * 1000; // 1 minute for demo
 
 export default function Navbar() {
   const counterData = useContext(Counter);
